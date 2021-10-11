@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/WORKS/WorkSpaceAndroid/MySQLiteDatabaseDemo/app/src/main/res/drawable/background_rounded.xml" value="0.1140625" />
+        <entry key="..\:/WORKS/WorkSpaceAndroid/MySQLiteDatabaseDemo/app/src/main/res/drawable/button_rounded.xml" value="0.2203125" />
+        <entry key="..\:/WORKS/WorkSpaceAndroid/MySQLiteDatabaseDemo/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/WORKS/WorkSpaceAndroid/MySQLiteDatabaseDemo/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/WORKS/WorkSpaceAndroid/MySQLiteDatabaseDemo/app/src/main/res/layout/activity_product_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/WORKS/WorkSpaceAndroid/MySQLiteDatabaseDemo/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
+        <entry key="..\:/WORKS/WorkSpaceAndroid/MySQLiteDatabaseDemo/app/src/main/res/layout/activity_signup.xml" value="0.20416666666666666" />
+        <entry key="..\:/WORKS/WorkSpaceAndroid/MySQLiteDatabaseDemo/app/src/main/res/layout/custom_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/WORKS/WorkSpaceAndroid/MySQLiteDatabaseDemo/app/src/main/res/layout/custom_dialog_add.xml" value="0.20416666666666666" />
+        <entry key="..\:/WORKS/WorkSpaceAndroid/MySQLiteDatabaseDemo/app/src/main/res/layout/custom_dialog_for_viewdata.xml" value="0.20416666666666666" />
+        <entry key="..\:/WORKS/WorkSpaceAndroid/MySQLiteDatabaseDemo/app/src/main/res/layout/custom_dialog_update.xml" value="0.20416666666666666" />
+        <entry key="..\:/WORKS/WorkSpaceAndroid/MySQLiteDatabaseDemo/app/src/main/res/layout/view_of_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/WORKS/WorkSpaceAndroid/MySQLiteDatabaseDemo/app/src/main/res/layout/viewoflist.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
